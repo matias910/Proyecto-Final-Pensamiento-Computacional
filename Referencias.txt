@@ -1,0 +1,5 @@
+Para las consolas usamos este video: https://www.youtube.com/watch?v=Kmgo00avvEw&t=5596s 
+y esta playlist: https://www.youtube.com/watch?v=lxyZ_NhCtD8&list=PLyVKCvpm4iiS-NZ0z349Sg-muhayUK-p_
+Para las 2 imagenes creadas le pedimos a chatGPT que nos las creara en base a la idea del refugio animal
+Las diapositivas de interactiva para el manejo de archivos
+Copilot para algunas correciones del funcionamiento del codigo (cuando no nos funcionaba la consola, las excepciones y el programa en general)
